@@ -73,8 +73,8 @@ membros da equipe
         </a>
     </td>
     <td align="center" width="150px">
-        <a href="https://github.com/usuario4">
-            <img src="https://github.com/usuario4.png" width="115px" style="border-radius: 50%;" alt="João victor"/>
+        <a href="https://github.com/JoaoFellows">
+            <img src="https://github.com/JoaoFellows.png" width="115px" style="border-radius: 50%;" alt="João victor"/>
             <br />
             <sub><b>João victor</b></sub>
         </a>
