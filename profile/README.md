@@ -4,7 +4,7 @@
 
 
 
-<h4 align="center">Somos o Grupo 4, Os Barões da APIzadinha, da RocketLab 4.0, programa organizado pela Visagio.</h4>
+<h4 align="center">Somos o Grupo 5, Os Barões da APIzadinha, da RocketLab 4.0, programa organizado pela Visagio.</h4>
 
 <br />
 <!-- IMAGEM DE DESTAQUE OU FRASE -->
