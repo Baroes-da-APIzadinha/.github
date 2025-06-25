@@ -2,6 +2,7 @@
 <h1 align="center">Barões da APIzadinha </h1>
 <!-- ![BANNER-GITHUB](https://link-da-sua-imagem/banner.png) -->
 
+![header-APIzadinha](https://github.com/user-attachments/assets/bbe19a7e-63a4-42d8-ba8d-bb3888d410bc)
 
 
 <h4 align="center">Somos o Grupo 5, Os Barões da APIzadinha, da RocketLab 4.0, programa organizado pela Visagio.</h4>
