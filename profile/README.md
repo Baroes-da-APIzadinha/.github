@@ -33,7 +33,7 @@ O **RPE** é nossa solução completa para gestão de performance e engajamento 
 ### 🎨 Frontend - Interface do Usuário
 <p align="center">
     <a href="https://github.com/Baroes-da-APIzadinha/RPE-Frontend" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baroes-da-APIzadinha&repo=RPE-Frontend&show_owner=true&bg_color=151515&title_color=BE3738&icon_color=BE3738&text_color=E0EBF4&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baroes-da-APIzadinha&repo=RPE-Frontend&show_owner=true&bg_color=0B1621&title_color=088BB1&icon_color=088BB1&text_color=FAF0CF&hide_border=true" />
     </a>
 </p>
 
@@ -46,7 +46,7 @@ O **RPE** é nossa solução completa para gestão de performance e engajamento 
 ### 🔧 Backend - Servidor e APIs
 <p align="center">
     <a href="https://github.com/Baroes-da-APIzadinha/RPE-Backend" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baroes-da-APIzadinha&repo=RPE-Backend&show_owner=true&bg_color=151515&title_color=BE3738&icon_color=BE3738&text_color=E0EBF4&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baroes-da-APIzadinha&repo=RPE-Backend&show_owner=true&bg_color=0B1621&title_color=088BB1&icon_color=088BB1&text_color=FAF0CF&hide_border=true" />
     </a>
 </p>
 
